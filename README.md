@@ -66,18 +66,18 @@ public class WordPair
 	}
 
 	public String getFirst() 
-{
+	{
 	
 		// To be implemented.
 	
-}
+	}
 
 	public String getSecond() 
-{
+	{
 	
-// To be implemented.
+		// To be implemented.
 	
-}
+	}
 
 }
 
